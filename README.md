@@ -9,8 +9,6 @@ The project investigates molecular differences between low-grade and high-grade 
 
 ## Repository Structure
 ccRCC-Tumour-Grading-Prediction
-- data/
-   original datasets
 - figures/
    Figures used in the dissertation
 - results/
@@ -31,9 +29,8 @@ The analysis includes:
 8. External validation using TCGA-KIRC
 
 ## Data
-The datasets analysed in this study are publicly available.
-- CPTAC (Clinical Proteomic Tumor Analysis Consortium)
-- TCGA-KIRC (The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma)
+The datasets analysed in this study are publicly available from the CPTAC and TCGA-KIRC projects.
+The original datasets are not redistributed in this repository.
 
 ## Software
 The analysis was performed using Python.
