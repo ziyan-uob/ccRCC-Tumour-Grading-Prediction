@@ -1,0 +1,9 @@
+Metric,Value
+Genes,10.0
+Mean CV AUC,0.92
+Std CV AUC,0.041
+Train AUC,0.998
+Test AUC,0.84
+Accuracy,0.742
+Sensitivity,0.786
+Specificity,0.706
