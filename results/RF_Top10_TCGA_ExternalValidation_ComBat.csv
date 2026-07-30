@@ -1,0 +1,7 @@
+Metric,Value
+AUC,0.646
+Accuracy,0.604
+Precision,0.715
+Sensitivity,0.436
+Specificity,0.798
+F1-score,0.542
