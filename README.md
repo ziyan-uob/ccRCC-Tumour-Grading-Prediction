@@ -7,21 +7,15 @@ The project investigates molecular differences between low-grade and high-grade 
 
 ## Repository Structure
 ccRCC-Tumour-Grading-Prediction
-│
-├── data/
-│   original datasets
-│
-├── figures/
-│   Figures used in the dissertation
-│
-├── results/
-│   Model outputs and performance results
-│
-├── ccRCC_Analysis.ipynb
-│   Complete analysis workflow
-│
-├── README.md
-└── LICENSE
+- data/
+   original datasets
+- figures/
+   Figures used in the dissertation
+- results/
+   Model outputs and performance results
+- ccRCC_Analysis.ipynb
+- README.md
+- LICENSE
 
 ## Workflow
 The analysis includes:
